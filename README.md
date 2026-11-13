@@ -73,7 +73,7 @@ Volume mutes only at 0%. Above 0%, the slider maps to the audio codec range so l
 
 ### 3D enclosure
 
-Print the enclosure yourself — the 3D files are on MakerWorld: <Click to download>
+Print the enclosure yourself — the 3D files are on MakerWorld: **Click image to download**
 
 [![PocketCinema enclosure on MakerWorld](img/enclosure.png)](https://makerworld.com/en/models/3427138-2-8-inch-cheap-capacitive-touch-display-enclosure)
 
