@@ -75,12 +75,10 @@ Volume mutes only at 0%. Above 0%, the slider maps to the audio codec range so l
 
 ### 3D enclosure
 
-Print the enclosure yourself — the 3D files are on MakerWorld:
+Print the enclosure yourself — the 3D files are on MakerWorld: <Click to download>
 
-<!-- TODO: replace https://makerworld.com with the real MakerWorld model URL -->
 [![PocketCinema enclosure on MakerWorld](img/enclosure.png)](https://makerworld.com/en/models/3427138-2-8-inch-cheap-capacitive-touch-display-enclosure)
 
-*Replace the link above with the real MakerWorld model URL and `img/makerworld-enclosure.jpg` with the model thumbnail.*
 
 ### Quick start
 
@@ -194,10 +192,8 @@ PocketCinema chạy **trực tiếp 1 file AVI duy nhất (video MJPEG + audio P
 
 Tự in vỏ máy — file in 3D nằm trên MakerWorld:
 
-<!-- TODO: thay https://makerworld.com bằng link model MakerWorld thật -->
 [![Vỏ PocketCinema trên MakerWorld](img/enclosure.png)](https://makerworld.com/en/models/3427138-2-8-inch-cheap-capacitive-touch-display-enclosure)
 
-*Thay link trên bằng link model MakerWorld thật và `img/makerworld-enclosure.jpg` bằng ảnh thumbnail của model.*
 
 ### Cách dùng cơ bản
 
