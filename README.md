@@ -18,7 +18,7 @@
 
 | Front view | Back view |
 |---|---|
-| ![PocketCinema front view](img/front.png) | ![PocketCinema back view](img/back.png) |
+| ![PocketCinema front view](img/front.jpg) | ![PocketCinema back view](img/back.jpg) |
 
 ---
 
