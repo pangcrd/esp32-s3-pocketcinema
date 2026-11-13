@@ -16,9 +16,9 @@
 
 **Language / Ngôn ngữ:** [English](#english) · [Tiếng Việt](#tiếng-việt)
 
-![PocketCinema front view](img/front.jpg)
-
-![PocketCinema back view](img/back.jpg)  
+| Front view | Back view |
+|---|---|
+| ![PocketCinema front view](img/front.png) | ![PocketCinema back view](img/back.png) |
 
 ---
 
@@ -64,13 +64,14 @@ Volume mutes only at 0%. Above 0%, the slider maps to the audio codec range so l
 
 ### Hardware
 
-| Part | Spec |
-|---|---|
-| Main board | ESP32-S3 |
-| Display + touch | ILI9341, 320×240, SPI, FT6336G capacitive touch |
-| Audio | ES8311 codec + speaker, I2S, mono 16 kHz |
-| Storage | microSD card, SDMMC 4-bit |
-| Battery | Li-ion, battery level read via ADC |
+🔗 Electronic components
+
+| Component | Spec | Buy link |
+|---|---|---|
+| ESP32-S3 N16R8 capacitive display | ILI9341, 320×240, SPI, FT6336G capacitive touch | [AliExpress](https://s.click.aliexpress.com/e/_c3j84RKr) |
+| N52 High-Strength Magnetic Hooks | 5×2 mm, N52 | [AliExpress](https://s.click.aliexpress.com/e/_c2yBtJR3) |
+| Toggle switch SS-12F15 | 3 Pin | [AliExpress](https://s.click.aliexpress.com/e/_c3KTFigv) |
+| M3 Brass Insert Nut | M3 × L5 × OD4 | [AliExpress](https://s.click.aliexpress.com/e/_c4oESJIv) |
 
 ### 3D enclosure
 
@@ -102,7 +103,6 @@ You do not need to install an IDE, set up ESP-IDF, or compile anything. Flash th
 
 [![ESP Forge Flasher](img/esp-forge-flasher.png)](https://tools.pangcrd.com/flasher)
 
-*Screenshot of the ESP Forge Flasher page — replace `img/esp-forge-flasher.jpg` with your own screenshot.*
 
 1. Open ESP Forge in a desktop browser and plug PocketCinema into the PC with a USB cable.
 2. Pick the PocketCinema firmware and flash it from the page.
@@ -120,7 +120,6 @@ Convert your video in the browser with the ESP Forge Converter: pick your video 
 
 [![ESP Forge Converter](img/esp-forge-converter.png)](https://tools.pangcrd.com/converter)
 
-*Screenshot of the ESP Forge Converter page — replace `img/esp-forge-converter.jpg` with your own screenshot.*
 
 **Option 2 — with ffmpeg (offline)**
 
@@ -182,13 +181,14 @@ PocketCinema chạy **trực tiếp 1 file AVI duy nhất (video MJPEG + audio P
 
 ### Phần cứng
 
-| Linh kiện | Thông số |
-|---|---|
-| Board mạch chính | ESP32-S3 |
-| Màn hình + cảm ứng | ILI9341, 320×240, SPI, cảm ứng điện dung FT6336G |
-| Âm thanh | Codec ES8311 + loa, I2S, mono 16 kHz |
-| Lưu trữ | Thẻ microSD, SDMMC 4-bit |
-| Pin | Pin Li-ion, đo mức pin qua ADC |
+🔗 Linh kiện điện tử
+
+| Linh kiện | Thông số | Link mua |
+|---|---|---|
+| ESP32-S3 N16R8 capacitive display | ILI9341, 320×240, SPI, cảm ứng điện dung FT6336G | [AliExpress](https://s.click.aliexpress.com/e/_c3j84RKr) |
+| N52 High-Strength Magnetic Hooks | 5×2 mm, N52 | [AliExpress](https://s.click.aliexpress.com/e/_c2yBtJR3) |
+| Toggle switch SS-12F15 | 3 Pin | [AliExpress](https://s.click.aliexpress.com/e/_c3KTFigv) |
+| M3 Brass Insert Nut | M3 × L5 × OD4 | [AliExpress](https://s.click.aliexpress.com/e/_c4oESJIv) |
 
 ### Vỏ in 3D
 
