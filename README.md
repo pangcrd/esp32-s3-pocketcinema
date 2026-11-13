@@ -30,8 +30,6 @@ PocketCinema is an **open-source** pocket video player built on ESP32-S3, releas
 
 You do not need to build the code yourself to use it: the firmware is available ready-made on ESP Forge, so you can flash it from the browser with no IDE and no compiling (see Quick start). Build from source only if you want to change something.
 
-That focus is also why it is not just “use a phone instead”: a phone does everything, so watching drains the battery you need for calls and maps, and every notification cuts into the film. PocketCinema is cheap and replaceable, and safe to hand to a child without handing over a phone — like a Kindle next to a tablet.
-
 ### Why a single AVI file?
 
 Most DIY players split video and audio into two files, for example `video.mjpeg` + `audio.wav`. That is easy to copy incompletely and easy to get out of sync.
@@ -144,8 +142,6 @@ PocketCinema is open source, released under the **MIT License**. You can use, co
 PocketCinema là máy xem phim bỏ túi **mã nguồn mở (open-source)** chạy trên ESP32-S3, phát hành theo **giấy phép MIT**. Chỉ cần chép file `.avi` vào thẻ microSD, mở máy lên là tự phát. Máy chỉ làm đúng một việc — phát video — nên không có gì cắt ngang bộ phim: không cuộc gọi, không tin nhắn, không thông báo, không cần mạng.
 
 Bạn không cần tự biên dịch code mới dùng được: firmware có sẵn trên ESP Forge, nạp ngay trên trình duyệt, không cần IDE, không cần biên dịch (xem Cách dùng cơ bản). Chỉ khi nào muốn sửa code thì mới cần tự build từ mã nguồn.
-
-Đó cũng là lý do không nên “dùng điện thoại cho nhanh”: điện thoại làm được hết, nên xem phim sẽ hao pin cần cho gọi điện và tra bản đồ, thông báo nào cũng nhảy vào giữa phim. PocketCinema rẻ, hỏng thì thay board rẻ, và đưa cho trẻ con xem được mà không cần đưa điện thoại — giống Kindle bên cạnh tablet vậy.
 
 ### Vì sao chỉ dùng 1 file AVI?
 
