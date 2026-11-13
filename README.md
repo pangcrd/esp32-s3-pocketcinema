@@ -212,8 +212,6 @@ Không cần cài IDE, không cần cài ESP-IDF, không cần biên dịch gì 
 
 [![ESP Forge Flasher](img/esp-forge-flasher.png)](https://tools.pangcrd.com/flasher)
 
-*Ảnh chụp trang Flasher của ESP Forge — thay `img/esp-forge-flasher.jpg` bằng ảnh chụp màn hình của đại ca.*
-
 1. Mở ESP Forge bằng trình duyệt trên máy tính, cắm PocketCinema vào PC bằng cáp USB.
 2. Chọn firmware PocketCinema và nạp ngay trên trang.
 3. Rút cáp, gắn thẻ microSD đã có file `.avi`, mở máy lên là xem.
@@ -229,8 +227,6 @@ Trang này cũng là tool hỗ trợ xuất / chuyển đổi video cho máy.
 Xuất video ngay trên trình duyệt bằng ESP Forge Converter: chọn file video, xuất ra file AVI dùng được cho PocketCinema, rồi chép vào thẻ.
 
 [![ESP Forge Converter](img/esp-forge-converter.png)](https://tools.pangcrd.com/converter)
-
-*Ảnh chụp trang Converter của ESP Forge — thay `img/esp-forge-converter.jpg` bằng ảnh chụp màn hình của đại ca.*
 
 **Cách 2 — dùng ffmpeg (offline)**
 
